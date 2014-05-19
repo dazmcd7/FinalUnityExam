@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GamesAIBasics-master\Assets\SteeringBehaviours.cs">
+    <Files>
+      <File FileName="Assets\GamesAIBasics-master\Assets\AttackingState.cs" Line="10" Column="22" />
+      <File FileName="Assets\GamesAIBasics-master\Assets\FireBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\GamesAIBasics-master\Assets\SteeringBehaviours.cs" Line="159" Column="21" />
+      <File FileName="Assets\GamesAIBasics-master\Assets\GameManager.cs" Line="17" Column="51" />
+      <File FileName="Assets\GamesAIBasics-master\Assets\TeaseState.cs" Line="1" Column="1" />
+      <File FileName="Assets\GamesAIBasics-master\Assets\Lazer.cs" Line="22" Column="3" />
+      <File FileName="Assets\GamesAIBasics-master\Assets\IdleState.cs" Line="46" Column="141" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
